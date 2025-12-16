@@ -10,8 +10,8 @@ brew tap noaa-mdl/mdllibs
 ```
 The above command uses shortened syntax since the tap is hosted on GitHub and the repository name is prefixed with "homebrew-".  See Homebrew Tap [documentation](https://docs.brew.sh/Taps) for full syntax.
 
-Each component of MDLLIBS can be installed with the following command structure:
+Each  of MDLLIBS can be installed with the following command structure:
 ```
-brew install mdllibs-<NAME>
+brew install <NAME>
 ```
 where `<NAME>` is one of the above listed libraries.
