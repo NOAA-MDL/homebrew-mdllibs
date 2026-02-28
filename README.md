@@ -1,5 +1,5 @@
 # homebrew-mdllibs
-[Homebrew](https://brew.sh) Tap for NOAA/NWS/MDL software.
+[Homebrew](https://brew.sh) Tap for [NOAA/NWS/MDL](https://vlab.noaa.gov/web/mdl) software.
 
 Currently supported libraries *(as of 12/16/2025)*:
 * [libtdlpack](https://github.com/NOAA-MDL/libtdlpack)
