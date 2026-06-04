@@ -1,4 +1,4 @@
-class Fortranstrings < Formula
+class FortranStrings < Formula
   desc "Fortran Library for common string manipulations"
   homepage "https://github.com/NOAA-MDL/fortran-strings"
   url "https://github.com/NOAA-MDL/libtdlpack/archive/refs/tags/v1.3.0.tar.gz"
