@@ -1,7 +1,7 @@
 class FortranStrings < Formula
   desc "Fortran Library for common string manipulations"
   homepage "https://github.com/NOAA-MDL/fortran-strings"
-  url "https://github.com/NOAA-MDL/libtdlpack/archive/refs/tags/v1.3.0.tar.gz"
+  url "https://github.com/NOAA-MDL/fortran-strings/archive/refs/tags/v1.3.0.tar.gz"
   sha256 "af2834bfbf08577f74ea5d45562740a0d38b1bf660da6b34fffd01c21f66eab6"
   license :public_domain
 
