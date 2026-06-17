@@ -1,8 +1,8 @@
 class Libtdlpack < Formula
   desc "Fortran Library for reading and writing MDL TDLPACK files."
   homepage "https://github.com/NOAA-MDL/libtdlpack"
-  url "https://github.com/NOAA-MDL/libtdlpack/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "dc71552bc9be1e975f9f5f41143fe3104ead37ba7317e2bc77bd6faccb32713c"
+  url "https://github.com/NOAA-MDL/libtdlpack/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "c434c7f2cc5641a4924f323e0dd1f38b7120995922c3b43e75e5f414e891e326"
   license :public_domain
 
   depends_on "cmake" => :build
